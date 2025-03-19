@@ -1,0 +1,7 @@
+insert 2
+insert 3
+exists 4
+next 4
+prev 4
+delete 5
+prev 4
