@@ -1,17 +1,17 @@
-# Лабораторная работа №3: `Жадные алгоритмы. Динамическое программирование №2`
+# Лабораторная работа №1: `Жадные алгоритмы. Динамическое программирование №2`
 
 Чан Тхи Лиен - К3140 - 407871
 ## Вариант 24
 ### Навигация
 
-- [ ] [Задача 2 - Заправки ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task3)
-- [ ] [Задача 6 - Максимальная зарплата ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task4)
-- [ ] [Задача 10 - Яблоки  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task5)
-- [ ] [Задача 13 - Сувениры  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task6)
-- [ ] [Задача 14 - Максимальное значение арифметического выражения  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task8)
-- [ ] [Задача 15 - Удаление скобок  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task9)
-- [ ] [Задача 17 - Ход конем   ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task9)
-- [ ] [Задача 19 - Произведение матриц  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task9)
+- [ ] [Задача 2 - Заправки ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1/task2)
+- [ ] [Задача 6 - Максимальная зарплата ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1/task6)
+- [ ] [Задача 10 - Яблоки  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1/task10)
+- [ ] [Задача 13 - Сувениры  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1/task13)
+- [ ] [Задача 14 - Максимальное значение арифметического выражения  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1/task14)
+- [ ] [Задача 15 - Удаление скобок  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1/task15)
+- [ ] [Задача 17 - Ход конем   ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1/task17)
+- [ ] [Задача 19 - Произведение матриц  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1/task19)
 
 ## Описание
 В данной лабораторной работе изучается еще один мощный инструмент, жадные алгоритмы. 
