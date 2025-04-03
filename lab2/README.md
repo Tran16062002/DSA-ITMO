@@ -4,12 +4,12 @@
 ## Вариант 24
 ### Навигация
 
-- [ ] [Задача 4 - Заправки ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task3)
-- [ ] [Задача 5 - Максимальная зарплата ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task4)
-- [ ] [Задача 10 - Яблоки  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task5)
-- [ ] [Задача 12 - Сувениры  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task6)
-- [ ] [Задача 14 - Максимальное значение арифметического выражения  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task8)
-- [ ] [Задача 16 - Удаление скобок  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task9)
+- [ ] [Задача 4 - Простейший неявный ключ ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab2/task4)
+- [ ] [Задача 5 - Простое двоичное дерево поиска ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab2/task5)
+- [ ] [Задача 10 - Проверка корректности  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab2/task10)
+- [ ] [Задача 12 - Проверка сбалансированности  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab2/task12)
+- [ ] [Задача 14 - Вставка в АВЛ-дерево  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab2/task14)
+- [ ] [Задача 16 - K-й максимум  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab2/task16)
 
 ## Описание
 В данной лабораторной работе изучается новая структура данных, двоичные (бинарные) 
