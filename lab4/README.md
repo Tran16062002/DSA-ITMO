@@ -4,10 +4,10 @@
 ## Вариант 24
 ### Навигация
 
-- [ ] [Задача 1 - Наивный поиск подстроки в строке  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task9)
-- [ ] [Задача 3 - Паттерн в тексте ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task4)
-- [ ] [Задача 6 - Z-функция ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task3)
-- [ ] [Задача 7 - Наибольшая общая подстрока  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task5)
+- [ ] [Задача 1 - Наивный поиск подстроки в строке  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab4/task1)
+- [ ] [Задача 3 - Паттерн в тексте ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab4/task3)
+- [ ] [Задача 6 - Z-функция ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab4/task6)
+- [ ] [Задача 7 - Наибольшая общая подстрока  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab4/task7)
 
 ## Описание
 В данной лабораторной работе изучаются строки, поиск подстрок, алгоритмы 
