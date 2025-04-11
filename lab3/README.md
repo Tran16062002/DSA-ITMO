@@ -4,11 +4,11 @@
 ## Вариант 24
 ### Навигация
 
-- [ ] [Задача 3 - Циклы ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task4)
-- [ ] [Задача 4 - Порядок курсов ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task3)
-- [ ] [Задача 10 - Оптимальный обмен валюты  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task5)
-- [ ] [Задача 14 - Автобусы  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task8)
-- [ ] [Задача 15 - Герои  ](https://github.com/Tran16062002/algorithms-and-data-structures/tree/main/lab3/Task9)
+- [ ] [Задача 3 - Циклы ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab3/task3)
+- [ ] [Задача 4 - Порядок курсов ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab3/task4)
+- [ ] [Задача 10 - Оптимальный обмен валюты  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab3/task10)
+- [ ] [Задача 14 - Автобусы  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab3/task14)
+- [ ] [Задача 15 - Герои  ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab3/task15)
 
 ## Описание
 В данной лабораторной работе изучаются графы, поиск в глубину, поиск в ширину, 
