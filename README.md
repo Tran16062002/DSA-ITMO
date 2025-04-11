@@ -7,6 +7,8 @@
 ### Навигация
 - [] [Лабараторная 1 - Жадные алгоритмы. Динамическое программирование №2 ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab1)
 - [] [Лабараторная 2 - Двоичные деревья поиска ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab2)
+- [] [Лабараторная 3 - Графы ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab3)
+- [] [Лабараторная 4 - Подстроки ](https://github.com/Tran16062002/DSA-ITMO/tree/main/lab4)
 
 ### Описание 
 
