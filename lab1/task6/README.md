@@ -32,15 +32,15 @@
    ```
 3. Запустите программу:
    ```bash
-   python src/task6.py
+   python task6/src/task6.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python test/test_task6.py
+   python task6/test/test_task6.py
    ```
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-    pytest test/test_task6.py
+    pytest task6/test/test_task6.py
 ```
