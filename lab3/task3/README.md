@@ -37,15 +37,15 @@
    ```
 3. Запустите программу:
    ```bash
-   python task5/src/task3.py
+   python task3/src/task3.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python task5/test/test_task3.py
+   python task3/test/test_task3.py
    ```
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-    pytest task5/test/test_task3.py
+    pytest task3/test/test_task3.py
 ```
